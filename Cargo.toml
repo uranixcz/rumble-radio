@@ -1,0 +1,11 @@
+[package]
+name = "rumble-radio"
+version = "0.1.0"
+authors = ["Michal Mauser <michal.mauser@zeitgeistmovement.cz>"]
+
+[dependencies]
+protobuf = "1.4"
+openssl = "0.9"
+#native-tls = "0.1"
+varinteger = "1.0.2"
+opus = "0.2.0"
